@@ -1,2 +1,2 @@
-# Projetos Realizados
+# Projects carried out
  Projetos concluídos em Python.
