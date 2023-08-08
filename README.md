@@ -1,2 +1,2 @@
 # Projects carried out
- Projetos concluídos em Python.
+ completed projects in python.
